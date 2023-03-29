@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="Name">Enter Full Name</string>
+    <string name="Email">Enter Email</string>
+    <string name="Password">Enter Password</string>
+    <string name="FetchTextView">Fetched Data</string>
+    <string name="name">Your name</string>
+    <string name="email">Your email</string>
+    <string name="password">Your password</string>
+
+</resources>
